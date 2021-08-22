@@ -3,7 +3,4 @@
 - 🌱 I’m currently learning lua & javascript
 - 📫 You can reach me on twitter [here](https://twitter.com/bobsterjs)
 
-<!---
-bobsterjsdev/bobsterjsdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/359755774873960450)](https://discord.com/users/359755774873960450)
