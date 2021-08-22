@@ -4,14 +4,19 @@
 </a>
   <br>
   <a href="https://discord.com/users/359755774873960450" >
-  <img src="https://img.shields.io/static/v1?label=Contact%20Me%20On&message=Discord&color=blueviolet"  />
+  <img src="https://img.shields.io/static/v1?label=contact%20me%20on&message=discord&color=blueviolet"  />
 </a>
   <a href="https://twitter.com/bobsterjs" >
-  <img src="https://img.shields.io/static/v1?label=Contact%20Me%20On&message=Twitter&color=blue"  />
+  <img src="https://img.shields.io/static/v1?label=contact%20me%20on&message=twitter&color=blue"  />
 </a>  
-  <a href="https://bobsterjs.ml" >
+  <a href="https://discord.gg/78DMCjZatu" >
   <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fbobsterjs.ml%2F"  />
 </a>  
+<br>
+</a>  
+<a href="https://discord.gg/78DMCjZatu" >
+<img src="https://img.shields.io/discord/878695365761716285"  />
+</a> 
 </div>
 
 
